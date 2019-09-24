@@ -1,2 +1,0 @@
-# photoshopHtmlDesignProject
-personal project
